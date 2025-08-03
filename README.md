@@ -16,7 +16,7 @@ Puedes abrirlo desde aquí:
     <title>Redireccionando a Spotify...</title>
     <script>
         // Redirección inmediata al URI de Spotify
-        window.location.href = "https://open.spotify.com/intl-es/album/0wDqCohxL8ao0ilO0XUykz?si=P06WxBUxS5aQ2xQA4yMeWA";
+        window.location.href = "spotify://track/0dI23ZVQTJq9wlx8Wm3nre";
 
         // Intento cerrar la pestaña después de 1 segundo
         setTimeout(() => {
