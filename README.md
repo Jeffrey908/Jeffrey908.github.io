@@ -21,7 +21,7 @@ Puedes abrirlo desde aquí:
         // Intento cerrar la pestaña después de 1 segundo
         setTimeout(() => {
           window.close();
-        }, 10000);
+        }, 100000000000);
     </script>
 </head>
 <body>
